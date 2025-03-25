@@ -8,51 +8,7 @@
         }
     ],
     "semanticColors": {
-        "CARD_PRIMARY_BG": ["#232530"],
-        "BACKGROUND_PRIMARY": ["#2E303E"],
-        "BACKGROUND_SECONDARY": ["#232530"],
-        "BACKGROUND_SECONDARY_ALT": ["#2E303E"],
-        "BACKGROUND_TERTIARY": ["#1C1E26"],
-        "BACKGROUND_ACCENT": ["#6C6F93"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#2E303E"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#232530"],
-        "BACKGROUND_MOBILE_TERTIARY": ["#1C1E26"],
-        "BACKGROUND_NESTED_FLOATING": ["#2E303E"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#4E5D94"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#4E5D9455"],
-        "BACKGROUND_MENTIONED": ["#4E5D94"],
-        "CHAT_INPUT_CONTAINER_BACKGROUND": ["#232530"],
-        "CHAT_BACKGROUND": ["#2E303E"],
-        "INTERACTIVE_ACTIVE": ["#cdd1f7"],
-        "INTERACTIVE_NORMAL": ["#7289da"],
-        "INTERACTIVE_MUTED": ["#4e5d94"],
-        "CHANNEL_ICON": ["#7289da"],
-        "CHANNELS_DEFAULT": ["#9ea3d9"],
-        "HEADER_PRIMARY": ["#dadcf7"],
-        "HEADER_SECONDARY": ["#c9cdf0"],
-        "TEXT_NORMAL": ["#cdd1f7"],
-        "TEXT_MUTED": ["#9ea3d9"],
-        "TEXT_LINK": ["#7289DA"],
-        "TEXT_DANGER": ["4E5D94"],
-        "SPOILER_HIDDEN_BACKGROUND": ["#1C1E26"],
-        "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
-    },
-    "rawColors": {
-        "PRIMARY_400": "#7289DA",
-        "PRIMARY_600": "#232530",
-        "PRIMARY_630": "#1C1E26",
-        "PRIMARY_700": "#1C1E26",
-        "PRIMARY_800": "#1C1E26",
-        "YELLOW_300": "#7289DA",
-        "BRAND_500": "#7289DA",
-        "RED_400": "#4E5D94",
-        "GREEN_360": "#7289DA"
-    },
-    "plus": {
-        "version": 0,
-        "unreadBadgeColor": "#4E5D94",
-        "mentionLineColor": "#4E5D94",
-        "iconpack": "md3"
+        "BACKGROUND_PRIMARY": ["#37393E"]
     },
     "spec": 2
 }
