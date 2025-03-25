@@ -8,10 +8,13 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_PRIMARY": ["#37393E"],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#202225"],
+        "BACKGROUND_PRIMARY": ["#303136"],
+        "BG_BASE_PRIMARY": ["#37393E"],
         "BG_BASE_TERTIARY": ["#202225"],
-        "BG_BRAND": ["#292B2F"],
         "BG_SURFACE_OVERLAY_TMP": ["#18191C"],
+        "EMBED_BACKGROUND": ["#303136"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#292B2F"],
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#292B2F"]
     },
     "spec": 2
