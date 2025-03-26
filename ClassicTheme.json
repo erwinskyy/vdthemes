@@ -8,7 +8,8 @@
         }
     ],
     "semanticColors": {
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#00FF01"]
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#00FF01"],
+        "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#EE00FF"]
     },
     "spec": 2
 }
