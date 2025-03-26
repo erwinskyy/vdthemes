@@ -1,6 +1,6 @@
 {
     "name": "Classic Theme",
-    "description": "A dark theme that emulates the older discord app",
+    "description": "A dark theme that emulates the older discord app.",
     "authors": [
         {
         "name": "erwinsky",
@@ -8,7 +8,7 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BANNER_BG": ["#00FF01"]
+        "CHAT_BORDER": ["#00FF01"]
     },
     "spec": 2
 }
