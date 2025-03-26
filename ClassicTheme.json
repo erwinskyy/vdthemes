@@ -8,8 +8,7 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#00FF01"],
-        "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#EE00FF"]
+        "BG_BASE_PRIMARY": ["#00FF01"]
     },
     "spec": 2
 }
