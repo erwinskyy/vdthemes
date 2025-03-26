@@ -8,7 +8,7 @@
         }
     ],
     "semanticColors": {
-        "PANEL_BG": ["#00FF01"]
+        "CHAT_BANNER_BG": ["#00FF01"]
     },
     "spec": 2
 }
