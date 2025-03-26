@@ -3,12 +3,12 @@
     "description": "A dark theme that emulates the older discord app.",
     "authors": [
         {
-        "name": "erwinsky",
-        "id": "134331680017219584"
+            "name": "erwinsky",
+            "id": "134331680017219584"
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": ["#00FF01"]
+        "TYPING_INDICATOR_BG": ["#00FF01"]
     },
     "spec": 2
 }
