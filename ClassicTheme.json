@@ -8,8 +8,7 @@
         }
     ],
     "semanticColors": {
-        "BG_BASE_PRIMARY": ["#00FF01"],
-        "BG_BASE_SECONDARY": ["#EE00FF"]
+        "PANEL_BG": ["#00FF01"]
     },
     "spec": 2
 }
