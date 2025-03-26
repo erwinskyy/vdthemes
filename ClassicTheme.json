@@ -8,8 +8,7 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": ["#00FF01"],
-        "BG_BASE_PRIMARY": ["#EE00FF"]
+        "CHAT_BACKGROUND": ["#00FF01"]
     },
     "spec": 2
 }
